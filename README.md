@@ -1,6 +1,7 @@
 ## Hi there 👋
 I'm a SDET who is looking to restart thier tech journey after a false start early on in my journey. My goals are to work as DevOps and/or Cybersecurity Analyst and am building my skillset to hoepfully gain employment in 2025.
-
+This project also includes my resume as a webpage: https://nullaurelian.github.io/nullAurelian/
+https://github.com/nullAurelian/nullAurelian
 [![roadmap.sh](https://roadmap.sh/card/tall/6780108b70129741a89cf393?variant=dark)](https://roadmap.sh)
 <!--
 **nullAurelian/nullAurelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
